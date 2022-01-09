@@ -1,8 +1,8 @@
-# write by number int dari 0 - 941
+# write by number int dari 0 - 679
 # for test apps form this project 
 from random import seed
 from random import randint
 seed(1)
-for _ in range(941):
-	value = randint(0,941)
+for _ in range(679):
+	value = randint(0,679)
 	print(value)
